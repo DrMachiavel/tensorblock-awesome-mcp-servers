@@ -1,0 +1,19 @@
+docs/project--task-management.md
+  s_0be5bf20cb058b::t_30193d9930d9aa 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c80ac1537dbfdee2920bd4eb3670733c140d91ce",
+  "prompts": {},
+  "sessions": {
+    "s_0be5bf20cb058b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a184a4-e6f4-71c1-b67d-531a2f020fbd",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "DrMachiavel <36016658+DrMachiavel@users.noreply.github.com>"
+    }
+  }
+}
